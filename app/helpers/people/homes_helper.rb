@@ -1,0 +1,2 @@
+module People::HomesHelper
+end
